@@ -1,10 +1,13 @@
-### Hi there 👋
+
+Greetings, I'm Sam, and I'm passionate about my passions.
+
+In my spare time, you can catch me diving into the abyss of obscure memes and indulging in the fine art of procrastination.
 
 <!--
 **giammu/giammu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
